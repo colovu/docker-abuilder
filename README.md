@@ -7,14 +7,15 @@
 
 **版本信息：**
 
-- 3.12、latest
+- 3.13、latest
+- 3.12
 
 **镜像信息：**
 
 * 镜像地址：
-  - Aliyun仓库：registry.cn-shenzhen.aliyuncs.com/colovu/abuilder:3.12
-  - DockerHub：colovu/abuilder:3.12
-  * 依赖镜像：colovu/alpine:3.12
+  - Aliyun仓库：registry.cn-shenzhen.aliyuncs.com/colovu/abuilder:3.13
+  - DockerHub：colovu/abuilder:3.13
+  * 依赖镜像：colovu/alpine:3.13
 
 > 后续相关命令行默认使用`[Docker Hub](https://hub.docker.com)`镜像服务器做说明
 
